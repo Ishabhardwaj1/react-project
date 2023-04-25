@@ -1,12 +1,12 @@
 .home {
   .features {
-    background-color: #f1fdf7;
+    background-color: #f4bff3;
     display: flex;
     justify-content: center;
     padding: 100px 0px;
 
     &.dark {
-      background-color: #0d084d;
+      background-color: #a50592;
 
       h1 {
         color: white !important;
@@ -28,7 +28,7 @@
       }
 
       button {
-        background-color: #1dbf73;
+        background-color: #70018b;
         border: none;
         color: white;
         padding: 10px 20px;
@@ -146,7 +146,7 @@
           &:hover{
             .line{
               width: 80px;
-              background-color: #1dbf73;
+              background-color: #c67acf;
             }
           }
         }

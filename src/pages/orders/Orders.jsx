@@ -5,7 +5,7 @@ import "./Orders.scss";
 const Orders = () => {
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "Isha",
     isSeller: true,
   };
 
@@ -31,9 +31,9 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Stunning concept art</td>
-            <td>59.<sup>99</sup></td>
-            <td>Maria Anders</td>
+            <td>Maths tutor-Mr.rohit shukla</td>
+            <td>2000 per month</td>
+            <td>Isha Bhardwaj</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
             </td>
@@ -46,9 +46,9 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Ai generated concept art</td>
-            <td>79.<sup>99</sup></td>
-            <td>Francisco Chang</td>
+            <td>History tutor-Mr.mohit shukla</td>
+            <td>3000 per month</td>
+            <td>Isha Bhardwaj</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
             </td>
@@ -61,9 +61,9 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>High quality digital character</td>
-            <td>110.<sup>99</sup></td>
-            <td>Roland Mendel</td>
+            <td>C++ tutor-Mr.Vikas kapoor</td>
+            <td>4000 per month</td>
+            <td>Isha Bhardwaj</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
             </td>
@@ -76,9 +76,9 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Illustration hyper realistic painting</td>
-            <td>39.<sup>99</sup></td>
-            <td>Helen Bennett</td>
+            <td>Python tutor-Mr.naresh</td>
+            <td>3000 per month</td>
+            <td>Isha Bhardwaj</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
             </td>
@@ -91,9 +91,9 @@ const Orders = () => {
                 alt=""
               />
             </td>
-            <td>Original ai generated digital art</td>
-            <td>119.<sup>99</sup></td>
-            <td>Yoshi Tannamuri</td>
+            <td>French tutor-Mr.rohit shukla</td>
+            <td>1000 per month</td>
+            <td>Isha Bhardwaj</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
             </td>
@@ -102,13 +102,13 @@ const Orders = () => {
             <td>
               <img
                 className="image"
-                src="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
             </td>
-            <td>Text based ai generated art</td>
-            <td>49.<sup>99</sup></td>
-            <td>Giovanni Rovelli</td>
+            <td>Java tutor-Mr.rohit shukla</td>
+            <td>5000 per month</td>
+            <td>Isha Bhardwaj</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
             </td>

@@ -19,11 +19,11 @@ function Navbar() {
     };
   }, []);
 
-  // const currentUser = null
+  
 
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "Isha",
     isSeller: true,
   };
 
@@ -32,14 +32,12 @@ function Navbar() {
       <div className="container">
         <div className="logo">
           <Link className="link" to="/">
-            <span className="text">liverr</span>
+            <span className="text">E Commerce Tutors</span>
           </Link>
           <span className="dot">.</span>
         </div>
         <div className="links">
-          <span>Liverr Business</span>
-          <span>Explore</span>
-          <span>English</span>
+          
           {!currentUser?.isSeller && <span>Become a Seller</span>}
           {currentUser ? (
             <div className="user" onClick={()=>setOpen(!open)}>
@@ -52,10 +50,10 @@ function Navbar() {
                 {currentUser.isSeller && (
                   <>
                     <Link className="link" to="/mygigs">
-                      Gigs
+                      User
                     </Link>
                     <Link className="link" to="/add">
-                      Add New Gig
+                      Add New User
                     </Link>
                   </>
                 )}
@@ -85,31 +83,31 @@ function Navbar() {
           <hr />
           <div className="menu">
             <Link className="link menuLink" to="/">
-              Graphics & Design
+             Programming 
             </Link>
             <Link className="link menuLink" to="/">
-              Video & Animation
+              Data science
             </Link>
             <Link className="link menuLink" to="/">
-              Writing & Translation
+             Psychology 
             </Link>
             <Link className="link menuLink" to="/">
-              AI Services
+              AI 
             </Link>
             <Link className="link menuLink" to="/">
-              Digital Marketing
+             Electronics
             </Link>
             <Link className="link menuLink" to="/">
-              Music & Audio
+            web Development
             </Link>
             <Link className="link menuLink" to="/">
-              Programming & Tech
+             Maths
             </Link>
             <Link className="link menuLink" to="/">
-              Business
+              History
             </Link>
             <Link className="link menuLink" to="/">
-              Lifestyle
+              Science
             </Link>
           </div>
           <hr />

@@ -5,14 +5,11 @@ import "./Messages.scss";
 const Messages = () => {
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "Isha",
     isSeller: true,
   };
 
-  const message = `Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-  maxime cum corporis esse aspernatur laborum dolorum? Animi
-  molestias aliquam, cum nesciunt, aut, ut quam vitae saepe repellat
-  nobis praesentium placeat.`;
+  const message = `hello i am you tutor`;
 
   return (
     <div className="messages">
@@ -28,7 +25,7 @@ const Messages = () => {
             <th>Action</th>
           </tr>
           <tr className="active">
-            <td>Charley Sharp</td>
+            <td>Mohit sharma</td>
             <td>
               <Link to="/message/123" className="link">
                 {message.substring(0, 100)}...
@@ -40,7 +37,7 @@ const Messages = () => {
             </td>
           </tr>
           <tr className="active">
-            <td>John Doe</td>
+            <td>Rohit Sharma</td>
 
             <td>
               <Link to="/message/123" className="link">
@@ -53,7 +50,7 @@ const Messages = () => {
             </td>
           </tr>
           <tr>
-            <td>Elinor Good</td>
+            <td>Vikas Kapoor</td>
             <td>
               <Link to="/message/123" className="link">
                 {message.substring(0, 100)}...
@@ -62,7 +59,7 @@ const Messages = () => {
             <td>1 day ago</td>
           </tr>
           <tr>
-            <td>Garner David </td>
+            <td>Ravi Sharma</td>
             <td>
               <Link to="/message/123" className="link">
                 {message.substring(0, 100)}...
@@ -71,7 +68,7 @@ const Messages = () => {
             <td>2 days ago</td>
           </tr>
           <tr>
-            <td>Troy Oliver</td>
+            <td>Mukul </td>
             <td>{message.substring(0, 100)}</td>
             <td>1 week ago</td>
           </tr>

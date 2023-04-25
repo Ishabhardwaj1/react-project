@@ -3,6 +3,7 @@
   display: flex;
   justify-content: center;
   background-color: #013914;
+  background-image: url("Tutoring-picture.jpeg");
   color: white;
 
   .container {
@@ -56,8 +57,8 @@
           width: 120px;
           height: 50px;
           border: none;
-          background-color: #1dbf73;
-          color: white;
+          background-color: #ba10a3;
+          color: rgb(252, 252, 252);
           align-self: flex-end;
           cursor: pointer;
         }
@@ -74,8 +75,8 @@
 
         button {
           width: max-content;
-          color: white;
-          border: 1px solid white;
+          color: rgb(9, 9, 9);
+          border: 1px solid rgb(10, 10, 10);
           padding: 5px 10px;
           border-radius: 20px;
           background-color: transparent;

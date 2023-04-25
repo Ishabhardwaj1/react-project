@@ -5,7 +5,7 @@ const Add = () => {
   return (
     <div className="add">
       <div className="container">
-        <h1>Add New Gig</h1>
+        <h1>Add New Tutor</h1>
         <div className="sections">
           <div className="info">
             <label htmlFor="">Title</label>
@@ -15,10 +15,10 @@ const Add = () => {
             />
             <label htmlFor="">Category</label>
             <select name="cats" id="cats">
-              <option value="design">Design</option>
-              <option value="web">Web Development</option>
-              <option value="animation">Animation</option>
-              <option value="music">Music</option>
+              <option value="design">C++</option>
+              <option value="web">Java</option>
+              <option value="animation">Python</option>
+              <option value="music">React</option>
             </select>
             <label htmlFor="">Cover Image</label>
             <input type="file" />
@@ -26,7 +26,7 @@ const Add = () => {
             <input type="file" multiple />
             <label htmlFor="">Description</label>
             <textarea name="" id="" placeholder="Brief descriptions to introduce your service to customers" cols="0" rows="16"></textarea>
-            <button>Create</button>
+            <button >Create</button>
           </div>
           <div className="details">
             <label htmlFor="">Service Title</label>

@@ -20,7 +20,7 @@ function Home() {
       <div className="features">
         <div className="container">
           <div className="item">
-            <h1>A whole world of freelance talent at your fingertips</h1>
+            <h1>A whole world of E Tutors at your fingertips</h1>
             <div className="title">
               <img src="./img/check.png" alt="" />
               The best for every budget
@@ -31,10 +31,10 @@ function Home() {
             </p>
             <div className="title">
               <img src="./img/check.png" alt="" />
-              Quality work done quickly
+              Quality education quickly
             </div>
             <p>
-              Find the right freelancer to begin working on your project within
+              Find the right educator to begin working on your subject within
               minutes.
             </p>
             <div className="title">
@@ -51,17 +51,15 @@ function Home() {
             </div>
             <p>
               Find high-quality services at every price point. No hourly rates,
-              just project-based pricing.
+              just subject-based pricing.
             </p>
           </div>
-          <div className="item">
-            <video src="./img/video.mp4" controls />
-          </div>
+         
         </div>
       </div>
       <div className="explore">
         <div className="container">
-          <h1>Explore the marketplace</h1>
+          <h1>Explore the educators</h1>
           <div className="items">
             <div className="item">
               <img
@@ -69,7 +67,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Graphics & Design</span>
+              <span>Maths</span>
             </div>
             <div className="item">
               <img
@@ -78,7 +76,7 @@ function Home() {
               />
               <div className="line"></div>
 
-              <span>Digital Marketing</span>
+              <span>Science</span>
             </div>
             <div className="item">
               <img
@@ -86,7 +84,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Writing & Translation</span>
+              <span>C++</span>
             </div>
             <div className="item">
               <img
@@ -94,7 +92,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Video & Animation</span>
+              <span>Python</span>
             </div>
             <div className="item">
               <img
@@ -102,7 +100,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Music & Audio</span>
+              <span>Java</span>
             </div>
             <div className="item">
               <img
@@ -110,7 +108,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Programming & Tech</span>
+              <span>English</span>
             </div>
             <div className="item">
               <img
@@ -118,7 +116,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Business</span>
+              <span>history</span>
             </div>
             <div className="item">
               <img
@@ -126,7 +124,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Lifestyle</span>
+              <span>French</span>
             </div>
             <div className="item">
               <img
@@ -134,7 +132,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Data</span>
+              <span>Data Science</span>
             </div>
             <div className="item">
               <img
@@ -142,7 +140,7 @@ function Home() {
                 alt=""
               />
               <div className="line"></div>
-              <span>Photography</span>
+              <span>Civics</span>
             </div>
           </div>
         </div>
@@ -151,34 +149,33 @@ function Home() {
         <div className="container">
           <div className="item">
             <h1>
-              liverr <i>business</i>
+              E <i>tutors</i>
             </h1>
             <h1>
-              A business solution designed for <i>teams</i>
+              A best solution designed for <i>students</i>
             </h1>
             <p>
-              Upgrade to a curated experience packed with tools and benefits,
-              dedicated to businesses
+              Upgrade to best educator for your subject
             </p>
             <div className="title">
               <img src="./img/check.png" alt="" />
-              Connect to freelancers with proven business experience
+              Connect to educators with great experience
             </div>
 
             <div className="title">
               <img src="./img/check.png" alt="" />
-              Get matched with the perfect talent by a customer success manager
+              Get matched with the perfect educator
             </div>
 
             <div className="title">
               <img src="./img/check.png" alt="" />
-              Manage teamwork and boost productivity with one powerful workspace
+              Manage  productivity with one powerful workspace
             </div>
-            <button>Explore Liverr Business</button>
+            <button>Explore E tutors</button>
           </div>
           <div className="item">
             <img
-              src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_870,dpr_2.0/v1/attachments/generic_asset/asset/d9c17ceebda44764b591a8074a898e63-1599597624768/business-desktop-870-x2.png"
+              src="https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=1600"
               alt=""
             />
           </div>

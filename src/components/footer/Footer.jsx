@@ -8,17 +8,17 @@ function Footer() {
         <div className="top">
           <div className="item">
             <h2>Categories</h2>
-            <span>Graphics & Design</span>
-            <span>Digital Marketing</span>
-            <span>Writing & Translation</span>
-            <span>Video & Animation</span>
-            <span>Music & Audio</span>
-            <span>Programming & Tech</span>
-            <span>Data</span>
-            <span>Business</span>
-            <span>Lifestyle</span>
-            <span>Photography</span>
-            <span>Sitemap</span>
+            <span>C++</span>
+            <span>Python</span>
+            <span>Java</span>
+            <span>english</span>
+            <span>Music</span>
+            <span>Programming</span>
+            <span>Data Science</span>
+            <span>Maths</span>
+            <span>History</span>
+            <span>Civics</span>
+            <span>Web development</span>
           </div>
           <div className="item">
             <h2>About</h2>
@@ -26,7 +26,7 @@ function Footer() {
             <span>Partnerships</span>
             <span>Privacy Policy</span>
             <span>Terms of Service</span>
-            <span>Intellectual Property Claims</span>
+            <span> Claims</span>
             <span>Investor Relations</span>
             <span>Contact Sales</span>
           </div>
@@ -34,8 +34,8 @@ function Footer() {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on Liverr</span>
-            <span>Buying on Liverr</span>
+            <span>Selling on E tutors</span>
+            <span>Buying on E tutors</span>
           </div>
           <div className="item">
             <h2>Community</h2>
@@ -48,19 +48,19 @@ function Footer() {
             <span>Affiliates</span>
             <span>Podcast</span>
             <span>Invite a Friend</span>
-            <span>Become a Seller</span>
+            <span>Become an E tutor</span>
             <span>Community Standards</span>
           </div>
           <div className="item">
-            <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
+            <h2>More From E tutors</h2>
+            <span>E tutors Business</span>
+            <span>E tutors Pro</span>
+            <span>E tutors Logo Maker</span>
+            <span>E tutors Guides</span>
             <span>Get Inspired</span>
-            <span>Liverr Select</span>
+            <span>E tutors Select</span>
             <span>ClearVoice</span>
-            <span>Liverr Workspace</span>
+            <span>E tutors Workspace</span>
             <span>Learn</span>
             <span>Working Not Working</span>
           </div>
@@ -68,8 +68,8 @@ function Footer() {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            <h2>E tutors</h2>
+            <span>© E tutors International Ltd. 2023</span>
           </div>
           <div className="right">
             <div className="social">
